@@ -1,0 +1,475 @@
+Order ID,First_name,Last_name,Email,Gender,Product,Product Category,Amount in dollars,Gender Category,Reclassified Category
+1.0,Morganne,Gerler,mgerler0@wufoo.com,Female,Nike Air Max,Mobiles,1414.86,Female,Fashion
+2.0,Amandie,Handrek,ahandrek1@economist.com,Unknown,Amazon Echo,Fashion,232.36,Others,Smart Devices
+3.0,Nollie,Jakab,njakab2@diigo.com,Male,Nike Air Max,Laptop,277.91,Male,Fashion
+4.0,Austin,Relph,arelph3@etsy.com,Female,Amazon Echo,mobile accesories,1155.54,Female,Smart Devices
+5.0,Kessia,Carrett,kcarrett4@uol.com.br,Female,Nike Air Max,mobile accesories,32.36,Female,Fashion
+6.0,Brod,Fallen,bfallen5@yahoo.co.jp,Male,Sony PlayStation,Fashion,888.05,Male,Gaming
+8.0,Louisette,Beche,lbeche7@devhub.com,Female,MacBook Pro,Laptop,359.21,Female,Laptop
+9.0,Hiram,Fridd,hfridd8@arstechnica.com,Male,Fitbit Charge,Fashion,1461.5,Male,Smart Devices
+10.0,Slade,Kealey,skealey9@flavors.me,Male,MacBook Pro,Fashion,1361.21,Male,Laptop
+11.0,Hilarius,Deeprose,hdeeprosea@furl.net,Male,Nike Air Max,Gaming,997.24,Male,Fashion
+12.0,Gilbertine,Spyvye,gspyvyeb@list-manage.com,Female,iPhone,Laptop,772.93,Female,Smart Devices
+13.0,Analiese,Camoys,acamoysc@tripadvisor.com,Female,Nike Air Max,Health,689.87,Female,Fashion
+14.0,Cecelia,Fellenor,cfellenord@cbsnews.com,Genderqueer,Canon EOS,Mobiles,1480.74,Others,Camera
+15.0,Slade,Tatershall,statershalle@wufoo.com,Male,MacBook Pro,Gaming,337.74,Male,Laptop
+16.0,Angie,Petrillo,apetrillof@weebly.com,Male,iPhone,Mobiles,429.29,Male,Smart Devices
+17.0,Stavro,La Vigne,slavigneg@youku.com,Male,Sony PlayStation,Gaming,478.92,Male,Gaming
+18.0,Antoine,Crosdill,acrosdillh@mlb.com,Male,Sony PlayStation,Laptop,363.68,Male,Gaming
+19.0,Isis,Jenkins,ijenkinsi@cnbc.com,Female,Fitbit Charge,Health,670.87,Female,Smart Devices
+20.0,Ruggiero,Cavan,rcavanj@omniture.com,Male,Samsung Galaxy,Gaming,350.09,Male,Smart Devices
+21.0,Edsel,Crichton,ecrichtonk@ucoz.ru,Bigender,Fitbit Charge,Fashion,238.62,Others,Smart Devices
+22.0,Lynette,Wilcox,lwilcoxl@china.com.cn,Female,MacBook Pro,Mobiles,546.21,Female,Laptop
+24.0,Desiri,Marcome,dmarcomen@etsy.com,Female,Amazon Echo,mobile accesories,990.86,Female,Smart Devices
+25.0,Arty,Bartleman,abartlemano@bravesites.com,Male,Sony PlayStation,mobile accesories,81.66,Male,Gaming
+26.0,Norby,Hazleton,nhazletonp@intel.com,Male,MacBook Pro,Health,1390.09,Male,Laptop
+27.0,Agosto,Boribal,aboribalq@sphinn.com,Male,MacBook Pro,Health,908.34,Male,Laptop
+28.0,Graham,Weedall,gweedallr@mashable.com,Male,MacBook Pro,Fashion,525.08,Male,Laptop
+29.0,Nan,Cattemull,ncattemulls@angelfire.com,Female,Nike Air Max,Health,252.84,Female,Fashion
+30.0,Kimberlyn,Semour,ksemourt@blog.com,Polygender,Amazon Echo,Health,1075.52,Others,Smart Devices
+32.0,Leda,Kelshaw,lkelshawv@list-manage.com,Non-binary,Nike Air Max,Health,311.22,Others,Fashion
+33.0,Marcelia,Lickorish,mlickorishw@timesonline.co.uk,Female,MacBook Pro,Health,1426.61,Female,Laptop
+34.0,Miguel,Readshall,mreadshallx@goo.ne.jp,Genderqueer,Fitbit Charge,Fashion,919.72,Others,Smart Devices
+35.0,Adele,MacNamara,amacnamaray@xing.com,Female,Nintendo Switch,mobile accesories,995.97,Female,Gaming
+36.0,Shaine,Ayto,saytoz@businessweek.com,Male,Amazon Echo,Health,223.65,Male,Smart Devices
+37.0,Vanda,Nannoni,vnannoni10@vistaprint.com,Female,Amazon Echo,Mobiles,823.32,Female,Smart Devices
+38.0,Rolfe,Gobbet,rgobbet11@google.cn,Male,iPhone,Mobiles,51.38,Male,Smart Devices
+39.0,Gilles,Conniam,gconniam12@mit.edu,Male,Amazon Echo,Health,939.7,Male,Smart Devices
+40.0,Filmore,Freshwater,ffreshwater13@bizjournals.com,Male,Fitbit Charge,mobile accesories,547.27,Male,Smart Devices
+41.0,Raquela,Shevill,rshevill14@naver.com,Female,iPhone,Laptop,1397.88,Female,Smart Devices
+42.0,Karalee,Pennacci,kpennacci15@comsenz.com,Female,Nike Air Max,Fashion,1480.33,Female,Fashion
+43.0,Sharron,Orth,sorth16@purevolume.com,Female,Fitbit Charge,mobile accesories,304.07,Female,Smart Devices
+44.0,Burke,St. Quentin,bstquentin17@over-blog.com,Male,Nike Air Max,Laptop,655.92,Male,Fashion
+45.0,Kelvin,Haddick,khaddick18@sciencedaily.com,Male,Sony PlayStation,Laptop,538.26,Male,Gaming
+46.0,Darren,Farries,dfarries19@wufoo.com,Male,Nintendo Switch,Fashion,458.75,Male,Gaming
+47.0,Paulita,Delafoy,pdelafoy1a@weather.com,Female,Samsung Galaxy,Health,1034.88,Female,Smart Devices
+48.0,Trudy,Luckey,tluckey1b@xinhuanet.com,Female,Fitbit Charge,Laptop,621.93,Female,Smart Devices
+49.0,b,Ganny,bganny1c@weibo.com,Male,Sony PlayStation,Gaming,1042.19,Male,Gaming
+50.0,Gardie,Maydway,gmaydway1d@webeden.co.uk,Unknown,Sony PlayStation,Mobiles,787.63,Others,Gaming
+51.0,Nicholle,Jacklings,njacklings1e@icq.com,Female,Nike Air Max,Fashion,998.79,Female,Fashion
+Missing_52,Garrick,Roy,groy1g@delicious.com,Male,Nike Air Max,Health,819.7,Male,Fashion
+54.0,Lorianna,Yielding,lyielding1h@google.co.jp,Female,Nike Air Max,Fashion,692.59,Female,Fashion
+55.0,Nisse,Loughead,nloughead1i@imdb.com,Female,Fitbit Charge,mobile accesories,829.73,Female,Smart Devices
+56.0,Lyndel,Silver,lsilver1j@netvibes.com,Female,Fitbit Charge,Mobiles,1192.54,Female,Smart Devices
+57.0,Falito,Varley,fvarley1k@instagram.com,Male,Fitbit Charge,Laptop,640.93,Male,Smart Devices
+59.0,Maurine,Cristoforo,mcristoforo1m@pcworld.com,Female,MacBook Pro,Gaming,1074.16,Female,Laptop
+60.0,Dulciana,Fullbrook,dfullbrook1n@wiley.com,Female,GoPro Hero,Health,601.6,Female,Camera
+Missing_60,Ferne,Rosenqvist,frosenqvist1o@miibeian.gov.cn,Unknown,Nike Air Max,mobile accesories,1381.47,Others,Fashion
+62.0,Bondy,Castanone,bcastanone1p@infoseek.co.jp,Male,Nike Air Max,Gaming,569.69,Male,Fashion
+Missing_62,Maribel,Denning,mdenning1q@hp.com,Female,Nintendo Switch,mobile accesories,788.63,Female,Gaming
+Missing_63,Doll,Ciementini,dciementini1r@walmart.com,Female,Samsung Galaxy,Mobiles,803.16,Female,Smart Devices
+65.0,Burr,Lindblad,blindblad1s@amazonaws.com,Male,Amazon Echo,Health,202.05,Male,Smart Devices
+66.0,Raimundo,Budget,rbudget1t@ibm.com,Male,Nike Air Max,Gaming,494.66,Male,Fashion
+67.0,Rowe,Yarr,ryarr1u@earthlink.net,Female,Sony PlayStation,Gaming,1163.54,Female,Gaming
+69.0,Ryann,Goldsmith,rgoldsmith1w@bandcamp.com,Female,Nike Air Max,Health,1469.71,Female,Fashion
+70.0,Menard,Preshaw,mpreshaw1x@drupal.org,Bigender,Fitbit Charge,mobile accesories,1406.84,Others,Smart Devices
+71.0,Any,Jago,ajago1y@hatena.ne.jp,Male,iPhone,Laptop,955.87,Male,Smart Devices
+72.0,Susie,Grimsdell,sgrimsdell1z@yellowpages.com,Female,Sony PlayStation,Health,1482.36,Female,Gaming
+73.0,Malva,Bummfrey,mbummfrey20@amazonaws.com,Non-binary,Samsung Galaxy,mobile accesories,1218.07,Others,Smart Devices
+74.0,Harlene,Shoppee,hshoppee21@scribd.com,Female,MacBook Pro,Laptop,946.55,Female,Laptop
+75.0,Mitchael,Venour,mvenour22@cdbaby.com,Male,Nike Air Max,Fashion,898.14,Male,Fashion
+Missing_75,Nathan,Balderson,nbalderson23@nih.gov,Male,Fitbit Charge,mobile accesories,1474.0,Male,Smart Devices
+77.0,Jacques,Fincham,jfincham24@craigslist.org,Male,Fitbit Charge,Health,352.27,Male,Smart Devices
+78.0,Giselbert,Marquot,gmarquot25@soundcloud.com,Male,Nike Air Max,mobile accesories,986.79,Male,Fashion
+79.0,Beverlee,St Pierre,bstpierre26@berkeley.edu,Female,GoPro Hero,Laptop,559.54,Female,Camera
+80.0,Tobin,Leefe,tleefe27@google.com.br,Male,Amazon Echo,Gaming,1274.43,Male,Smart Devices
+81.0,Garald,Coling,gcoling28@wiley.com,Male,Nike Air Max,Fashion,1061.63,Male,Fashion
+82.0,Joanne,McCullum,jmccullum29@cisco.com,Female,Fitbit Charge,Gaming,757.65,Female,Smart Devices
+83.0,Reinhard,Petrello,rpetrello2a@google.nl,Male,iPhone,Gaming,205.32,Male,Smart Devices
+84.0,Lutero,Taberner,ltaberner2b@tinyurl.com,Male,Fitbit Charge,Laptop,343.31,Male,Smart Devices
+85.0,Jackelyn,Bucknall,jbucknall2c@apple.com,Female,Fitbit Charge,Health,1098.15,Female,Smart Devices
+86.0,Jeramey,Truckell,jtruckell2d@sfgate.com,Male,Sony PlayStation,Mobiles,1457.79,Male,Gaming
+88.0,Cordula,Manssuer,cmanssuer2f@ucla.edu,Female,Sony PlayStation,Gaming,1006.2,Female,Gaming
+89.0,Budd,Nockles,bnockles2g@liveinternet.ru,Male,Sony PlayStation,Health,1098.78,Male,Gaming
+90.0,Maximo,Lacaze,mlacaze2h@jalbum.net,Non-binary,Nike Air Max,Gaming,743.21,Others,Fashion
+91.0,Yorgos,Heyworth,yheyworth2i@sourceforge.net,Male,Fitbit Charge,Laptop,266.32,Male,Smart Devices
+92.0,Rudie,Murphy,rmurphy2j@topsy.com,Male,iPhone,Fashion,805.45,Male,Smart Devices
+93.0,Justinian,Prier,jprier2k@hao123.com,Male,Samsung Galaxy,Gaming,193.16,Male,Smart Devices
+94.0,Lynette,Eberst,leberst2l@vimeo.com,Female,Samsung Galaxy,Gaming,985.03,Female,Smart Devices
+95.0,Natalina,McPhelimy,nmcphelimy2m@economist.com,Female,Sony PlayStation,Mobiles,473.79,Female,Gaming
+97.0,Giraldo,Joslin,gjoslin2o@tinypic.com,Genderqueer,Samsung Galaxy,Mobiles,627.83,Others,Smart Devices
+98.0,Constantine,Lighton,clighton2p@guardian.co.uk,Female,Nike Air Max,Gaming,715.16,Female,Fashion
+99.0,Peyton,Muff,pmuff2q@cdc.gov,Male,Sony PlayStation,mobile accesories,44.71,Male,Gaming
+100.0,Alisander,Blare,ablare2r@hugedomains.com,Male,Nike Air Max,Gaming,446.64,Male,Fashion
+101.0,Wilbur,Baton,wbaton2s@dyndns.org,Male,Sony PlayStation,Laptop,126.6,Male,Gaming
+102.0,Denys,Mathonnet,dmathonnet2t@joomla.org,Unknown,Nintendo Switch,Health,203.97,Others,Gaming
+103.0,Giovanna,Beazey,gbeazey2u@godaddy.com,Agender,Fitbit Charge,Gaming,682.93,Others,Smart Devices
+104.0,Nelli,Aubrey,naubrey2v@shop-pro.jp,Female,Amazon Echo,Gaming,1006.18,Female,Smart Devices
+105.0,Pammi,Karle,pkarle2w@histats.com,Female,Nike Air Max,mobile accesories,1081.13,Female,Fashion
+106.0,Lorenza,Baldassi,lbaldassi2x@geocities.jp,Female,Nike Air Max,Gaming,607.94,Female,Fashion
+107.0,Denney,Weyland,dweyland2y@weibo.com,Male,iPhone,Gaming,795.03,Male,Smart Devices
+108.0,Gilbertine,Kulicke,gkulicke2z@jugem.jp,Female,Fitbit Charge,Health,1315.05,Female,Smart Devices
+109.0,Maegan,McGuiney,mmcguiney30@reddit.com,Genderqueer,Fitbit Charge,Gaming,995.42,Others,Smart Devices
+110.0,Noellyn,Eskell,neskell31@1688.com,Non-binary,Fitbit Charge,Gaming,1206.92,Others,Smart Devices
+111.0,Martyn,Kemston,mkemston32@joomla.org,Male,Fitbit Charge,Gaming,819.33,Male,Smart Devices
+112.0,Terra,Ollis,tollis33@apache.org,Female,Nike Air Max,Laptop,1425.99,Female,Fashion
+113.0,Joana,Bowshire,jbowshire34@sogou.com,Female,Canon EOS,Health,1463.15,Female,Camera
+115.0,Rena,Rossetti,rrossetti36@slashdot.org,Female,Amazon Echo,Laptop,1400.62,Female,Smart Devices
+116.0,Jessee,Keasy,jkeasy37@barnesandnoble.com,Male,Nike Air Max,Fashion,301.65,Male,Fashion
+117.0,Arline,Sibson,asibson38@ucoz.com,Female,Nike Air Max,mobile accesories,565.03,Female,Fashion
+118.0,Ricky,Dunguy,rdunguy39@arizona.edu,Unknown,Nike Air Max,Gaming,831.54,Others,Fashion
+119.0,Jobyna,Haggard,jhaggard3a@t.co,Female,Nike Air Max,Health,51.37,Female,Fashion
+120.0,Lancelot,Bocke,lbocke3b@cbc.ca,Male,Nike Air Max,Fashion,109.44,Male,Fashion
+121.0,Tootsie,Tague,ttague3c@ca.gov,Female,iPhone,Fashion,753.15,Female,Smart Devices
+122.0,Barbi,Walklott,bwalklott3d@ovh.net,Female,Nike Air Max,Gaming,212.66,Female,Fashion
+124.0,Arlie,Jenkyn,ajenkyn3f@ycombinator.com,Female,MacBook Pro,Fashion,61.54,Female,Laptop
+125.0,Lillian,Kroon,lkroon3g@mayoclinic.com,Female,iPhone,mobile accesories,755.13,Female,Smart Devices
+126.0,Ivie,Peplaw,ipeplaw3h@gmpg.org,Female,Amazon Echo,Gaming,156.32,Female,Smart Devices
+127.0,Ferdinand,Tatam,ftatam3i@ed.gov,Male,Sony PlayStation,Health,1230.55,Male,Gaming
+128.0,d,Chmiel,dchmiel3j@harvard.edu,Male,Samsung Galaxy,Fashion,529.22,Male,Smart Devices
+129.0,Nikolas,McCulloch,nmcculloch3k@elpais.com,Male,Fitbit Charge,Gaming,1389.15,Male,Smart Devices
+130.0,Lucretia,Corps,lcorps3l@paypal.com,Female,Amazon Echo,Laptop,374.92,Female,Smart Devices
+131.0,Mattias,Filippello,mfilippello3m@ovh.net,Male,Sony PlayStation,Mobiles,512.87,Male,Gaming
+132.0,Sargent,Galtone,sgaltone3n@smugmug.com,Non-binary,Amazon Echo,Laptop,636.35,Others,Smart Devices
+133.0,Lindsey,Coope,lcoope3o@youtu.be,Polygender,iPhone,Laptop,223.81,Others,Smart Devices
+134.0,Victoir,Hobbema,vhobbema3p@list-manage.com,Male,GoPro Hero,Fashion,844.85,Male,Camera
+135.0,Farrel,Landsbury,flandsbury3q@boston.com,Male,Samsung Galaxy,Health,817.52,Male,Smart Devices
+136.0,Horton,Headford,hheadford3r@symantec.com,Male,Sony PlayStation,Mobiles,65.38,Male,Gaming
+Missing_136,Chaunce,Shine,cshine3s@nytimes.com,Male,Samsung Galaxy,Gaming,855.02,Male,Smart Devices
+138.0,Raymund,Effnert,reffnert3t@jigsy.com,Male,MacBook Pro,Fashion,1260.36,Male,Laptop
+139.0,Tabb,Flacknoe,tflacknoe3u@nps.gov,Male,Fitbit Charge,Gaming,253.08,Male,Smart Devices
+141.0,Naomi,Gildersleaves,ngildersleaves3w@tinyurl.com,Female,Sony PlayStation,Mobiles,284.71,Female,Gaming
+142.0,Fannie,Goodbarr,fgoodbarr3x@sakura.ne.jp,Female,Sony PlayStation,Laptop,686.73,Female,Gaming
+143.0,Charlean,Bonifazio,cbonifazio3y@nasa.gov,Female,Nike Air Max,Gaming,1136.7,Female,Fashion
+144.0,Frederique,Maggill'Andreis,fmaggillandreis3z@census.gov,Polygender,Nintendo Switch,Fashion,1194.9,Others,Gaming
+145.0,Deina,Shrimpling,dshrimpling40@google.fr,Female,MacBook Pro,Gaming,1091.12,Female,Laptop
+146.0,Mathian,Trenholme,mtrenholme41@nih.gov,Bigender,Sony PlayStation,Laptop,401.82,Others,Gaming
+147.0,Karolina,Allred,kallred42@livejournal.com,Female,Canon EOS,mobile accesories,452.77,Female,Camera
+148.0,Delaney,Strelitzki,dstrelitzki43@irs.gov,Male,Sony PlayStation,Laptop,529.52,Male,Gaming
+150.0,Michelle,Sleightholm,msleightholm45@google.com.au,Bigender,MacBook Pro,Mobiles,138.36,Others,Laptop
+151.0,Mirna,Goldney,mgoldney46@narod.ru,Female,Amazon Echo,Fashion,232.42,Female,Smart Devices
+152.0,Hermine,Yule,hyule47@omniture.com,Female,Fitbit Charge,Laptop,71.1,Female,Smart Devices
+153.0,Rick,Lesper,rlesper48@tmall.com,Male,Sony PlayStation,Gaming,799.82,Male,Gaming
+154.0,Doria,Lackner,dlackner49@sfgate.com,Female,Nike Air Max,mobile accesories,1394.7,Female,Fashion
+155.0,Rodger,Butte,rbutte4a@samsung.com,Male,Samsung Galaxy,mobile accesories,793.57,Male,Smart Devices
+157.0,Rosina,Rutt,rrutt4c@qq.com,Unknown,Sony PlayStation,Mobiles,614.3,Others,Gaming
+158.0,Kerrin,Bushby,kbushby4d@imageshack.us,Female,Nike Air Max,Mobiles,800.77,Female,Fashion
+Missing_158,Consalve,Cominetti,ccominetti4e@cbsnews.com,Male,MacBook Pro,Laptop,1218.79,Male,Laptop
+160.0,Lenee,Crasswell,lcrasswell4f@gov.uk,Female,Sony PlayStation,Gaming,1156.56,Female,Gaming
+161.0,Dionne,Fitzer,dfitzer4g@economist.com,Female,Amazon Echo,mobile accesories,221.83,Female,Smart Devices
+162.0,Caron,McLenahan,cmclenahan4h@blogger.com,Bigender,Amazon Echo,Mobiles,694.31,Others,Smart Devices
+163.0,Daisi,Duckerin,dduckerin4i@jalbum.net,Female,Sony PlayStation,Laptop,1218.18,Female,Gaming
+164.0,Dionisio,Voss,dvoss4j@marriott.com,Male,Amazon Echo,mobile accesories,1409.6,Male,Smart Devices
+165.0,Marsiella,Elia,melia4k@sakura.ne.jp,Female,Fitbit Charge,Mobiles,1224.7,Female,Smart Devices
+166.0,Andres,Downes,adownes4l@google.pl,Male,Fitbit Charge,Gaming,513.44,Male,Smart Devices
+167.0,Danie,Grzelczak,dgrzelczak4m@cloudflare.com,Male,Fitbit Charge,Laptop,196.53,Male,Smart Devices
+168.0,Pedro,Piperley,ppiperley4n@list-manage.com,Male,Sony PlayStation,Health,412.36,Male,Gaming
+169.0,Beaufort,Viccars,bviccars4o@sina.com.cn,Genderqueer,Nike Air Max,Mobiles,1221.57,Others,Fashion
+170.0,Jen,Soffe,jsoffe4p@mail.ru,Female,Nike Air Max,Health,796.13,Female,Fashion
+171.0,Andrea,Collcutt,acollcutt4q@nationalgeographic.com,Male,Sony PlayStation,Fashion,237.04,Male,Gaming
+172.0,Darb,Grinvalds,dgrinvalds4r@elpais.com,Unknown,Nike Air Max,Health,795.81,Others,Fashion
+Missing_172,a,Cowterd,acowterd4s@github.com,Polygender,Sony PlayStation,Gaming,1001.39,Others,Gaming
+174.0,Gris,Clifforth,gclifforth4t@ed.gov,Male,Samsung Galaxy,Health,1467.2,Male,Smart Devices
+175.0,Anatola,Emblen,aemblen4u@myspace.com,Female,Nike Air Max,Fashion,1486.71,Female,Fashion
+176.0,Pepito,Cron,pcron4v@samsung.com,Male,Sony PlayStation,Gaming,1194.66,Male,Gaming
+177.0,Lynda,Silverthorne,lsilverthorne4w@upenn.edu,Bigender,Sony PlayStation,Gaming,898.27,Others,Gaming
+178.0,Tammy,Suggett,tsuggett4x@google.com,Male,Fitbit Charge,Mobiles,1139.92,Male,Smart Devices
+179.0,Fionnula,Trayling,ftrayling4y@netlog.com,Female,Sony PlayStation,Health,646.01,Female,Gaming
+180.0,Klemens,Pimlott,kpimlott4z@cdc.gov,Polygender,Sony PlayStation,Fashion,1115.91,Others,Gaming
+181.0,Bili,Braidon,bbraidon50@wikispaces.com,Female,Sony PlayStation,Laptop,1150.05,Female,Gaming
+182.0,Deane,Glading,dglading51@mit.edu,Male,Nike Air Max,Fashion,242.47,Male,Fashion
+183.0,Sheffie,Kenworthey,skenworthey52@imdb.com,Male,Sony PlayStation,Laptop,556.13,Male,Gaming
+Missing_183,Laurie,Ivakhin,livakhin53@kickstarter.com,Female,Nintendo Switch,Gaming,520.26,Female,Gaming
+185.0,Peyter,Giorgi,pgiorgi54@w3.org,Male,Sony PlayStation,Fashion,1151.39,Male,Gaming
+186.0,Eberto,Frede,efrede55@cisco.com,Male,Nike Air Max,Mobiles,1034.28,Male,Fashion
+187.0,Page,Grindell,pgrindell56@ask.com,Male,Sony PlayStation,Mobiles,1380.62,Male,Gaming
+188.0,Allianora,Cunney,acunney57@harvard.edu,Female,Amazon Echo,Gaming,403.82,Female,Smart Devices
+189.0,Guendolen,Cornford,gcornford58@instagram.com,Female,Sony PlayStation,Gaming,1086.25,Female,Gaming
+190.0,Desmund,Accomb,daccomb59@cdc.gov,Male,Nike Air Max,Fashion,887.5,Male,Fashion
+Missing_190,Alexis,Catcherside,acatcherside5a@hatena.ne.jp,Female,Amazon Echo,mobile accesories,1211.29,Female,Smart Devices
+192.0,Annabela,Woodrow,awoodrow5b@behance.net,Female,Sony PlayStation,Fashion,697.68,Female,Gaming
+194.0,Bartholemy,Carley,bcarley5d@google.it,Polygender,Amazon Echo,Health,684.16,Others,Smart Devices
+195.0,Chester,Greiswood,cgreiswood5e@diigo.com,Male,MacBook Pro,Health,710.35,Male,Laptop
+196.0,Rebekah,Masse,rmasse5f@slashdot.org,Genderfluid,Nike Air Max,Fashion,801.9,Others,Fashion
+197.0,Jewel,Clamp,jclamp5g@dagondesign.com,Genderqueer,Amazon Echo,Gaming,830.02,Others,Smart Devices
+198.0,Derk,Balnave,dbalnave5h@parallels.com,Male,Sony PlayStation,mobile accesories,319.67,Male,Gaming
+199.0,Dori,Paice,dpaice5i@mayoclinic.com,Female,Sony PlayStation,Gaming,877.81,Female,Gaming
+200.0,Raffarty,Ziemecki,rziemecki5j@nih.gov,Male,Amazon Echo,Fashion,44.23,Male,Smart Devices
+Missing_200,Maurie,Hallows,mhallows5k@flickr.com,Male,Samsung Galaxy,Fashion,405.35,Male,Smart Devices
+202.0,Cheri,Duplock,cduplock5l@blogtalkradio.com,Female,GoPro Hero,Gaming,556.58,Female,Camera
+203.0,Saloma,Marishenko,smarishenko5m@jigsy.com,Female,MacBook Pro,Health,1002.05,Female,Laptop
+204.0,Marjy,Colin,mcolin5n@scientificamerican.com,Genderfluid,Sony PlayStation,Laptop,612.28,Others,Gaming
+205.0,Dominik,Wardley,dwardley5o@netvibes.com,Unknown,Fitbit Charge,Laptop,193.42,Others,Smart Devices
+206.0,Derrick,Menault,dmenault5p@hao123.com,Male,Sony PlayStation,Laptop,282.27,Male,Gaming
+207.0,Roosevelt,Luten,rluten5q@umich.edu,Male,GoPro Hero,mobile accesories,477.86,Male,Camera
+209.0,Boycie,Cheer,bcheer5s@vk.com,Male,Fitbit Charge,Health,361.21,Male,Smart Devices
+210.0,Christel,Sizeland,csizeland5t@ovh.net,Female,Nike Air Max,Health,845.02,Female,Fashion
+211.0,Corina,Fulford,cfulford5u@sakura.ne.jp,Female,Fitbit Charge,Fashion,219.11,Female,Smart Devices
+212.0,Torrey,Haldene,thaldene5v@linkedin.com,Bigender,Nike Air Max,mobile accesories,1001.82,Others,Fashion
+213.0,Lee,Cuffe,lcuffe5w@epa.gov,Female,Nike Air Max,Fashion,329.19,Female,Fashion
+214.0,Silvie,Bexley,sbexley5x@bravesites.com,Female,Sony PlayStation,Health,638.76,Female,Gaming
+215.0,Lonee,Monketon,lmonketon5y@illinois.edu,Female,Sony PlayStation,Laptop,1252.72,Female,Gaming
+216.0,Tillie,Matussov,tmatussov5z@ycombinator.com,Female,Canon EOS,Laptop,57.66,Female,Camera
+217.0,Caddric,Ladley,cladley60@newyorker.com,Male,Samsung Galaxy,Fashion,1004.03,Male,Smart Devices
+218.0,Fanny,Crother,fcrother61@forbes.com,Female,Sony PlayStation,Laptop,636.49,Female,Gaming
+219.0,Russ,Pavett,rpavett62@reference.com,Male,Sony PlayStation,mobile accesories,207.35,Male,Gaming
+220.0,Celestia,Vynall,cvynall63@jugem.jp,Female,Fitbit Charge,Health,695.1,Female,Smart Devices
+221.0,Laurette,Curtoys,lcurtoys64@i2i.jp,Female,Canon EOS,Health,1306.39,Female,Camera
+222.0,Spence,Doore,sdoore65@nps.gov,Male,Nike Air Max,mobile accesories,1263.75,Male,Fashion
+223.0,Sheelagh,Prattin,sprattin66@homestead.com,Female,Samsung Galaxy,Fashion,216.41,Female,Smart Devices
+224.0,Sissy,Fownes,sfownes67@umich.edu,Female,Nike Air Max,mobile accesories,933.84,Female,Fashion
+225.0,Renee,Chilvers,rchilvers68@mail.ru,Female,Sony PlayStation,Health,1021.8,Female,Gaming
+226.0,Lorilyn,Beaves,lbeaves69@wsj.com,Female,Amazon Echo,Health,780.36,Female,Smart Devices
+227.0,Luci,Hatt,lhatt6a@ovh.net,Female,Nike Air Max,Gaming,741.28,Female,Fashion
+228.0,Reeba,Bitterton,rbitterton6b@fc2.com,Female,Sony PlayStation,Laptop,489.03,Female,Gaming
+229.0,Crosby,Haspineall,chaspineall6c@ezinearticles.com,Male,Sony PlayStation,Fashion,1455.33,Male,Gaming
+230.0,Fletch,Boothby,fboothby6d@answers.com,Non-binary,MacBook Pro,Mobiles,580.76,Others,Laptop
+231.0,Melva,Swindell,mswindell6e@nhs.uk,Bigender,Fitbit Charge,Health,29.67,Others,Smart Devices
+232.0,Jermayne,Eliot,jeliot6f@state.tx.us,Male,Fitbit Charge,Gaming,101.78,Male,Smart Devices
+233.0,Ruthe,Beckingham,rbeckingham6g@stanford.edu,Female,Fitbit Charge,Fashion,281.21,Female,Smart Devices
+234.0,Lyda,Proby,lproby6h@wsj.com,Genderfluid,Nike Air Max,Laptop,312.88,Others,Fashion
+235.0,Taddeo,Odams,todams6i@fema.gov,Non-binary,Amazon Echo,Fashion,1228.11,Others,Smart Devices
+236.0,Jacquenetta,Frankel,jfrankel6j@wikipedia.org,Female,Sony PlayStation,Laptop,1088.58,Female,Gaming
+237.0,Antonie,Swannell,aswannell6k@joomla.org,Female,Amazon Echo,Health,773.84,Female,Smart Devices
+238.0,Lib,Matt,lmatt6l@webnode.com,Female,Sony PlayStation,Gaming,323.14,Female,Gaming
+239.0,Jackqueline,Brockelsby,jbrockelsby6m@tinyurl.com,Female,Nike Air Max,Fashion,1021.54,Female,Fashion
+240.0,Julina,Measor,jmeasor6n@answers.com,Agender,GoPro Hero,mobile accesories,446.33,Others,Camera
+241.0,Kerr,Dubbin,kdubbin6o@cbslocal.com,Male,Sony PlayStation,Gaming,840.4,Male,Gaming
+242.0,Scotty,Mustarde,smustarde6p@buzzfeed.com,Male,Sony PlayStation,mobile accesories,1288.83,Male,Gaming
+244.0,Rebekkah,Dunton,rdunton6r@cnbc.com,Female,Nike Air Max,Health,1168.25,Female,Fashion
+245.0,Lorri,Dumke,ldumke6s@123-reg.co.uk,Female,Nintendo Switch,Gaming,119.91,Female,Gaming
+246.0,Vina,Staner,vstaner6t@stanford.edu,Female,Nike Air Max,Mobiles,1304.74,Female,Fashion
+247.0,Filberte,Torresi,ftorresi6u@is.gd,Male,Sony PlayStation,Laptop,1086.68,Male,Gaming
+248.0,Baxy,Domanek,bdomanek6v@hp.com,Male,Fitbit Charge,Fashion,389.08,Male,Smart Devices
+249.0,Linnea,Paullin,lpaullin6w@t-online.de,Unknown,Samsung Galaxy,mobile accesories,1151.72,Others,Smart Devices
+250.0,Chrissy,Clawsley,cclawsley6x@irs.gov,Male,MacBook Pro,Gaming,381.12,Male,Laptop
+251.0,Nobie,Sidwell,nsidwell6y@state.gov,Male,Fitbit Charge,Laptop,542.36,Male,Smart Devices
+252.0,Noelani,Hayhoe,nhayhoe6z@com.com,Female,Amazon Echo,mobile accesories,31.21,Female,Smart Devices
+253.0,Reece,Crosetti,rcrosetti70@blogtalkradio.com,Male,Fitbit Charge,Mobiles,1312.52,Male,Smart Devices
+254.0,Costanza,Yerby,cyerby71@myspace.com,Female,Canon EOS,Fashion,640.48,Female,Camera
+255.0,Davidde,Witson,dwitson72@jalbum.net,Male,Fitbit Charge,Gaming,1492.83,Male,Smart Devices
+256.0,Stanton,McAree,smcaree73@telegraph.co.uk,Male,Fitbit Charge,Fashion,606.53,Male,Smart Devices
+258.0,Rowney,Cokely,rcokely75@engadget.com,Male,Fitbit Charge,Fashion,533.43,Male,Smart Devices
+259.0,Minette,Aron,maron76@cisco.com,Female,Sony PlayStation,Laptop,1293.63,Female,Gaming
+260.0,Ambrosius,Ralton,aralton77@prweb.com,Male,Nike Air Max,Health,1018.38,Male,Fashion
+261.0,Tyrus,O'Fogarty,tofogarty78@sogou.com,Unknown,Fitbit Charge,mobile accesories,1334.13,Others,Smart Devices
+262.0,Enrika,O'Sharkey,eosharkey79@pbs.org,Polygender,Fitbit Charge,Laptop,1201.61,Others,Smart Devices
+263.0,Zollie,Carrick,zcarrick7a@economist.com,Male,Nike Air Max,Health,1283.54,Male,Fashion
+264.0,Keefer,Janczewski,kjanczewski7b@posterous.com,Male,Fitbit Charge,Gaming,1134.19,Male,Smart Devices
+265.0,Flynn,Stilling,fstilling7c@theguardian.com,Genderqueer,GoPro Hero,Fashion,658.76,Others,Camera
+266.0,Georg,Alyutin,galyutin7d@csmonitor.com,Male,iPhone,mobile accesories,995.88,Male,Smart Devices
+Missing_266,Isaak,Kollaschek,ikollaschek7e@netscape.com,Male,GoPro Hero,Mobiles,272.57,Male,Camera
+268.0,Wilhelm,Hynam,whynam7f@toplist.cz,Male,MacBook Pro,Laptop,195.32,Male,Laptop
+269.0,Donna,Rumford,drumford7g@columbia.edu,Female,Nike Air Max,Health,836.39,Female,Fashion
+270.0,Clarissa,Manthorpe,cmanthorpe7h@wiley.com,Unknown,Samsung Galaxy,mobile accesories,196.0,Others,Smart Devices
+271.0,Christin,Cardillo,ccardillo7i@hibu.com,Female,Fitbit Charge,Gaming,87.11,Female,Smart Devices
+272.0,Daisey,Meineking,dmeineking7j@canalblog.com,Female,Amazon Echo,Gaming,203.76,Female,Smart Devices
+273.0,Neale,Svanetti,nsvanetti7k@gizmodo.com,Male,Canon EOS,Gaming,1384.94,Male,Camera
+274.0,Josie,Oret,joret7l@alibaba.com,Female,Sony PlayStation,Laptop,576.46,Female,Gaming
+275.0,Pier,Middlehurst,pmiddlehurst7m@pinterest.com,Female,Sony PlayStation,Health,445.61,Female,Gaming
+276.0,Rudyard,Aksell,raksell7n@e-recht24.de,Male,Amazon Echo,Laptop,605.26,Male,Smart Devices
+277.0,Catha,Iacobucci,ciacobucci7o@tiny.cc,Female,Amazon Echo,Mobiles,533.95,Female,Smart Devices
+278.0,Free,Trewhela,ftrewhela7p@whitehouse.gov,Male,Fitbit Charge,Laptop,1206.9,Male,Smart Devices
+Missing_278,Fey,Pegler,fpegler7q@prweb.com,Female,Sony PlayStation,Health,543.67,Female,Gaming
+281.0,Anallise,Leathwood,aleathwood7s@gizmodo.com,Female,Fitbit Charge,mobile accesories,1115.4,Female,Smart Devices
+Missing_281,Morten,Cummungs,mcummungs7t@blogspot.com,Male,Fitbit Charge,mobile accesories,850.14,Male,Smart Devices
+283.0,Melania,Oakes,moakes7u@dropbox.com,Female,Sony PlayStation,Health,1188.52,Female,Gaming
+Missing_283,Francklyn,Stubley,fstubley7v@imageshack.us,Male,Fitbit Charge,Fashion,1204.8,Male,Smart Devices
+286.0,Tynan,Mityashin,tmityashin7x@dropbox.com,Male,Nike Air Max,Laptop,487.35,Male,Fashion
+287.0,Mada,Vann,mvann7y@alibaba.com,Female,Amazon Echo,Health,1495.31,Female,Smart Devices
+288.0,Jereme,Langsbury,jlangsbury7z@china.com.cn,Male,Nike Air Max,mobile accesories,1255.17,Male,Fashion
+Missing_288,Alexander,Boal,aboal80@g.co,Male,Amazon Echo,Health,472.83,Male,Smart Devices
+290.0,Benedikt,Toffoloni,btoffoloni81@ustream.tv,Male,Fitbit Charge,mobile accesories,793.62,Male,Smart Devices
+292.0,Garv,Margrem,gmargrem83@disqus.com,Male,Amazon Echo,Gaming,1159.66,Male,Smart Devices
+293.0,Jacenta,Lowis,jlowis84@senate.gov,Female,Nike Air Max,mobile accesories,1005.1,Female,Fashion
+294.0,Penni,Ruggs,pruggs85@google.com.au,Unknown,Sony PlayStation,Gaming,822.14,Others,Gaming
+295.0,Jaye,Lathey,jlathey86@nba.com,Male,Nike Air Max,Gaming,610.35,Male,Fashion
+296.0,Donielle,Emanuelli,demanuelli87@posterous.com,Female,Amazon Echo,Mobiles,220.05,Female,Smart Devices
+297.0,Cindy,Cory,ccory88@craigslist.org,Female,Fitbit Charge,mobile accesories,376.28,Female,Smart Devices
+298.0,Egor,Cradock,ecradock89@newyorker.com,Male,Canon EOS,Mobiles,1094.68,Male,Camera
+299.0,Emily,Cawkwell,ecawkwell8a@census.gov,Female,Sony PlayStation,Laptop,1074.91,Female,Gaming
+300.0,Engracia,Dowdall,edowdall8b@list-manage.com,Female,Sony PlayStation,Laptop,1481.09,Female,Gaming
+301.0,Griffie,Rosenschein,grosenschein8c@soundcloud.com,Male,Amazon Echo,Health,697.98,Male,Smart Devices
+302.0,Frannie,Killgus,fkillgus8d@issuu.com,Female,Sony PlayStation,Gaming,1156.16,Female,Gaming
+303.0,Millicent,Dundon,mdundon8e@usatoday.com,Female,Sony PlayStation,Health,229.24,Female,Gaming
+304.0,Jehanna,Gansbuhler,jgansbuhler8f@wikimedia.org,Female,Fitbit Charge,mobile accesories,892.57,Female,Smart Devices
+305.0,Vasilis,Higgoe,vhiggoe8g@spiegel.de,Male,Nike Air Max,Fashion,496.62,Male,Fashion
+306.0,b,Celle,bcelle8h@oracle.com,Female,Sony PlayStation,mobile accesories,1347.18,Female,Gaming
+307.0,Janifer,Hughlin,jhughlin8i@joomla.org,Female,Fitbit Charge,Fashion,921.11,Female,Smart Devices
+308.0,Alexandr,Roblin,aroblin8j@huffingtonpost.com,Male,GoPro Hero,Mobiles,645.96,Male,Camera
+Missing_308,Didi,Geator,dgeator8k@zimbio.com,Female,Samsung Galaxy,Fashion,1410.04,Female,Smart Devices
+310.0,Irvine,Drowsfield,idrowsfield8l@nps.gov,Unknown,Nike Air Max,Fashion,722.53,Others,Fashion
+311.0,Melisandra,Caldow,mcaldow8m@forbes.com,Female,Amazon Echo,Mobiles,903.86,Female,Smart Devices
+312.0,r,Ballaam,rballaam8n@mashable.com,Female,Sony PlayStation,mobile accesories,626.87,Female,Gaming
+313.0,Wayne,Neave,wneave8o@desdev.cn,Male,Fitbit Charge,Laptop,916.08,Male,Smart Devices
+315.0,Katey,Empleton,kempleton8q@weebly.com,Female,Samsung Galaxy,Laptop,510.14,Female,Smart Devices
+316.0,Flemming,Birwhistle,fbirwhistle8r@ifeng.com,Male,Sony PlayStation,Laptop,1413.49,Male,Gaming
+317.0,Cammie,Kerfod,ckerfod8s@ibm.com,Bigender,Fitbit Charge,Mobiles,293.41,Others,Smart Devices
+Missing_317,Wesley,Scutter,wscutter8t@nytimes.com,Male,Nike Air Max,Health,1064.51,Male,Fashion
+319.0,Joelie,Van Der Weedenburg,jvanderweedenburg8u@scientificamerican.com,Female,Nike Air Max,Health,573.14,Female,Fashion
+320.0,Menard,Crop,mcrop8v@gov.uk,Male,Amazon Echo,Health,547.2,Male,Smart Devices
+321.0,Zedekiah,Mulcaster,zmulcaster8w@oaic.gov.au,Male,Nike Air Max,Fashion,60.07,Male,Fashion
+322.0,Wynn,Scragg,wscragg8x@illinois.edu,Female,Fitbit Charge,mobile accesories,1367.35,Female,Smart Devices
+323.0,Annissa,Craiker,acraiker8y@prnewswire.com,Female,Nintendo Switch,Laptop,163.05,Female,Gaming
+324.0,Dietrich,Richmont,drichmont8z@geocities.com,Male,MacBook Pro,Fashion,1208.27,Male,Laptop
+325.0,Taite,Ropkins,tropkins90@jalbum.net,Male,MacBook Pro,Fashion,123.85,Male,Laptop
+326.0,Clay,Arnell,carnell91@tamu.edu,Polygender,Fitbit Charge,Laptop,236.4,Others,Smart Devices
+327.0,Araldo,Zimmer,azimmer92@delicious.com,Male,Sony PlayStation,mobile accesories,575.47,Male,Gaming
+328.0,Lettie,Scorer,lscorer93@storify.com,Female,GoPro Hero,Laptop,1005.61,Female,Camera
+329.0,Christos,Houselee,chouselee94@ow.ly,Male,Fitbit Charge,Health,1250.81,Male,Smart Devices
+330.0,Blithe,Lots,blots95@ow.ly,Female,Fitbit Charge,Mobiles,620.12,Female,Smart Devices
+331.0,Filide,Brockway,fbrockway96@symantec.com,Female,MacBook Pro,Fashion,706.2,Female,Laptop
+332.0,Luise,Houston,lhouston97@ox.ac.uk,Female,Sony PlayStation,Gaming,277.65,Female,Gaming
+333.0,Rubie,Thayre,rthayre98@who.int,Female,Amazon Echo,Mobiles,149.98,Female,Smart Devices
+334.0,Quinton,Leatherland,qleatherland99@360.cn,Male,Fitbit Charge,Gaming,1141.26,Male,Smart Devices
+335.0,Twila,Harley,tharley9a@rediff.com,Female,Amazon Echo,Gaming,1359.7,Female,Smart Devices
+336.0,Ossie,Ginnane,oginnane9b@google.com.br,Male,Samsung Galaxy,Health,619.56,Male,Smart Devices
+337.0,Flossy,Osban,fosban9c@bloomberg.com,Female,GoPro Hero,mobile accesories,608.71,Female,Camera
+338.0,Kaila,Innocent,kinnocent9d@webmd.com,Bigender,GoPro Hero,Health,1329.02,Others,Camera
+339.0,Prescott,Concklin,pconcklin9e@parallels.com,Male,Samsung Galaxy,Fashion,1039.84,Male,Smart Devices
+340.0,Julina,Beumant,jbeumant9f@a8.net,Female,Fitbit Charge,Laptop,432.31,Female,Smart Devices
+341.0,Read,Shaw,rshaw9g@skyrock.com,Male,Nike Air Max,Mobiles,1323.92,Male,Fashion
+342.0,Carly,Blogg,cblogg9h@rambler.ru,Female,MacBook Pro,Laptop,109.52,Female,Laptop
+343.0,Jasmina,Lutzmann,jlutzmann9i@cornell.edu,Female,Sony PlayStation,Health,488.06,Female,Gaming
+344.0,Augustus,Parke,aparke9j@dailymail.co.uk,Male,Amazon Echo,mobile accesories,596.75,Male,Smart Devices
+345.0,Peg,Gozzard,pgozzard9k@senate.gov,Female,Nike Air Max,Laptop,1276.56,Female,Fashion
+346.0,Paddie,McCarthy,pmccarthy9l@so-net.ne.jp,Male,Nike Air Max,Health,1490.28,Male,Fashion
+347.0,Sarge,O'Kuddyhy,sokuddyhy9m@topsy.com,Male,Fitbit Charge,Fashion,1454.98,Male,Smart Devices
+348.0,Thomasina,Piddock,tpiddock9n@flickr.com,Female,Fitbit Charge,Laptop,310.46,Female,Smart Devices
+349.0,Adeline,Giametti,agiametti9o@stumbleupon.com,Female,Sony PlayStation,Laptop,784.09,Female,Gaming
+350.0,Lind,Cudmore,lcudmore9p@oracle.com,Female,Sony PlayStation,Mobiles,1211.59,Female,Gaming
+351.0,Court,Cholerton,ccholerton9q@phpbb.com,Male,Sony PlayStation,Fashion,49.13,Male,Gaming
+352.0,Kaylee,Guilloton,kguilloton9r@sbwire.com,Genderfluid,Nike Air Max,Gaming,973.26,Others,Fashion
+353.0,Nils,Loggie,nloggie9s@cdc.gov,Male,Nike Air Max,Fashion,552.32,Male,Fashion
+354.0,Dniren,Rust,drust9t@sina.com.cn,Agender,Samsung Galaxy,Laptop,304.01,Others,Smart Devices
+355.0,Micheil,Yesinin,myesinin9u@nhs.uk,Male,Sony PlayStation,Fashion,1103.15,Male,Gaming
+356.0,Mariana,Gude,mgude9v@usgs.gov,Female,iPhone,Mobiles,1009.37,Female,Smart Devices
+357.0,w,Caughey,wcaughey9w@mediafire.com,Male,Fitbit Charge,Mobiles,680.52,Male,Smart Devices
+358.0,Lissy,Brun,lbrun9x@youku.com,Female,Amazon Echo,mobile accesories,32.82,Female,Smart Devices
+359.0,Gillie,Riddeough,griddeough9y@pen.io,Female,MacBook Pro,mobile accesories,731.81,Female,Laptop
+Missing_359,Haskel,Allchorne,hallchorne9z@com.com,Male,Samsung Galaxy,Gaming,85.69,Male,Smart Devices
+361.0,Ramsay,Ellwell,rellwella0@51.la,Male,MacBook Pro,Fashion,919.82,Male,Laptop
+362.0,Marjory,Glowacz,mglowacza1@abc.net.au,Female,Sony PlayStation,Health,1312.92,Female,Gaming
+364.0,Freedman,Mirrlees,fmirrleesa3@independent.co.uk,Male,Fitbit Charge,Gaming,589.54,Male,Smart Devices
+365.0,Maudie,Hurler,mhurlera4@census.gov,Female,Sony PlayStation,mobile accesories,250.17,Female,Gaming
+366.0,Maryjo,Coneybeare,mconeybearea5@g.co,Female,Canon EOS,mobile accesories,633.61,Female,Camera
+367.0,Cass,Gretton,cgrettona6@epa.gov,Male,GoPro Hero,mobile accesories,1044.17,Male,Camera
+368.0,Arda,Iredale,airedalea7@opensource.org,Genderqueer,Sony PlayStation,Mobiles,296.56,Others,Gaming
+369.0,Lissi,Gommey,lgommeya8@guardian.co.uk,Female,iPhone,Health,627.31,Female,Smart Devices
+370.0,Ilario,Carles,icarlesa9@illinois.edu,Male,Fitbit Charge,Laptop,92.24,Male,Smart Devices
+371.0,Richardo,Ciabatteri,rciabatteriaa@phoca.cz,Male,Nike Air Max,Mobiles,642.65,Male,Fashion
+372.0,Gamaliel,Brandoni,gbrandoniab@sakura.ne.jp,Male,Fitbit Charge,Gaming,651.77,Male,Smart Devices
+373.0,Noll,McRae,nmcraeac@economist.com,Male,Fitbit Charge,Fashion,409.31,Male,Smart Devices
+Missing_373,Micheal,Sondland,msondlandad@dion.ne.jp,Male,Sony PlayStation,mobile accesories,218.32,Male,Gaming
+375.0,Jamie,Widdocks,jwiddocksae@mlb.com,Female,GoPro Hero,Fashion,258.18,Female,Camera
+376.0,Ellene,Southall,esouthallaf@ftc.gov,Female,Sony PlayStation,Mobiles,658.49,Female,Gaming
+377.0,Arel,Gwilt,agwiltag@wix.com,Male,Sony PlayStation,Gaming,1126.55,Male,Gaming
+378.0,Timmie,Immings,timmingsah@who.int,Male,Sony PlayStation,Mobiles,94.64,Male,Gaming
+379.0,Ericha,Chippin,echippinai@wikipedia.org,Female,iPhone,mobile accesories,704.85,Female,Smart Devices
+381.0,Maurizia,Gentner,mgentnerak@biglobe.ne.jp,Female,iPhone,Gaming,1039.24,Female,Smart Devices
+382.0,Shepard,Seath,sseathal@cargocollective.com,Male,Nintendo Switch,Fashion,1455.83,Male,Gaming
+383.0,Wally,Connar,wconnaram@dot.gov,Agender,Sony PlayStation,Mobiles,394.82,Others,Gaming
+384.0,Anselm,Kapiloff,akapiloffan@wisc.edu,Male,MacBook Pro,mobile accesories,301.07,Male,Laptop
+385.0,Arel,Kluss,aklussao@ucsd.edu,Male,Nintendo Switch,Laptop,937.45,Male,Gaming
+386.0,Kaia,McMenamin,kmcmenaminap@yellowbook.com,Female,Nike Air Max,mobile accesories,326.3,Female,Fashion
+387.0,Janelle,Verlinden,jverlindenaq@mapy.cz,Female,Sony PlayStation,mobile accesories,740.84,Female,Gaming
+388.0,Penn,Dayton,pdaytonar@prweb.com,Male,Sony PlayStation,Health,715.59,Male,Gaming
+389.0,Rowland,Maccari,rmaccarias@usa.gov,Male,GoPro Hero,Laptop,1348.77,Male,Camera
+390.0,Rollie,Neillans,rneillansat@51.la,Male,MacBook Pro,Laptop,1407.81,Male,Laptop
+391.0,Bessy,Tidd,btiddau@opera.com,Female,GoPro Hero,Laptop,201.79,Female,Camera
+392.0,Bella,Winward,bwinwardav@studiopress.com,Female,Sony PlayStation,Mobiles,1052.56,Female,Gaming
+393.0,Bill,But,bbutaw@nhs.uk,Female,Amazon Echo,Laptop,802.39,Female,Smart Devices
+394.0,Felipa,Wildt,fwildtax@themeforest.net,Female,iPhone,Health,1004.33,Female,Smart Devices
+395.0,Alaster,Kubalek,akubalekay@examiner.com,Male,Samsung Galaxy,mobile accesories,32.26,Male,Smart Devices
+396.0,Desmond,Russan,drussanaz@house.gov,Male,Nike Air Max,Fashion,552.76,Male,Fashion
+397.0,Lanie,Rheam,lrheamb0@is.gd,Female,Sony PlayStation,Fashion,549.88,Female,Gaming
+398.0,Evangelia,Button,ebuttonb1@pinterest.com,Female,Amazon Echo,Mobiles,605.19,Female,Smart Devices
+399.0,Fields,Castane,fcastaneb2@yale.edu,Male,Nike Air Max,Mobiles,213.57,Male,Fashion
+400.0,Jervis,Monteaux,jmonteauxb3@slashdot.org,Male,Nike Air Max,Mobiles,1366.38,Male,Fashion
+401.0,Hedy,Kingham,hkinghamb4@uiuc.edu,Female,Amazon Echo,Mobiles,1416.59,Female,Smart Devices
+Missing_401,Ricardo,Ungaretti,rungarettib5@wufoo.com,Male,MacBook Pro,Health,1307.18,Male,Laptop
+403.0,Ettie,Messier,emessierb6@behance.net,Female,Amazon Echo,Mobiles,192.37,Female,Smart Devices
+404.0,Myrah,Mee,mmeeb7@scientificamerican.com,Female,Amazon Echo,Mobiles,1455.0,Female,Smart Devices
+405.0,Sandy,Moses,smosesb8@stumbleupon.com,Female,Fitbit Charge,mobile accesories,260.24,Female,Smart Devices
+406.0,Josi,Dargue,jdargueb9@sogou.com,Female,Sony PlayStation,Laptop,329.75,Female,Gaming
+407.0,Dar,Bather,dbatherba@live.com,Male,Fitbit Charge,Laptop,1018.2,Male,Smart Devices
+408.0,Keane,Du Pre,kduprebb@eepurl.com,Male,Fitbit Charge,mobile accesories,1080.22,Male,Smart Devices
+409.0,Luke,Arnow,larnowbc@biglobe.ne.jp,Male,Sony PlayStation,Mobiles,598.78,Male,Gaming
+410.0,Kenyon,Knowlys,kknowlysbd@domainmarket.com,Male,MacBook Pro,Laptop,1381.49,Male,Laptop
+411.0,Bud,Membry,bmembrybe@skyrock.com,Unknown,Fitbit Charge,Fashion,1000.22,Others,Smart Devices
+412.0,Paddy,Blaik,pblaikbf@ebay.com,Male,Nike Air Max,Laptop,214.68,Male,Fashion
+413.0,Roberta,Ladloe,rladloebg@cafepress.com,Female,Sony PlayStation,Fashion,43.44,Female,Gaming
+415.0,Pen,Jennaway,pjennawaybi@wikipedia.org,Male,GoPro Hero,Mobiles,794.26,Male,Camera
+416.0,Noach,Keford,nkefordbj@people.com.cn,Male,Samsung Galaxy,Laptop,601.0,Male,Smart Devices
+417.0,Augustine,Killough,akilloughbk@google.com.br,Female,Nike Air Max,Laptop,586.31,Female,Fashion
+Missing_417,Edmon,Pundy,epundybl@ted.com,Male,Sony PlayStation,Health,297.38,Male,Gaming
+419.0,Lianne,Gallen,lgallenbm@ft.com,Female,MacBook Pro,Gaming,1432.42,Female,Laptop
+420.0,Zorana,Pavolillo,zpavolillobn@mac.com,Female,GoPro Hero,Fashion,870.48,Female,Camera
+421.0,Wanda,Bittlestone,wbittlestonebo@dell.com,Female,GoPro Hero,Fashion,1399.8,Female,Camera
+422.0,Doralynn,Stot,dstotbp@issuu.com,Female,MacBook Pro,mobile accesories,254.27,Female,Laptop
+423.0,Stephi,Edmonds,sedmondsbq@infoseek.co.jp,Female,Sony PlayStation,Health,116.36,Female,Gaming
+424.0,Taddeo,Dickson,tdicksonbr@ox.ac.uk,Male,Sony PlayStation,Health,179.91,Male,Gaming
+425.0,Coletta,Fleeming,cfleemingbs@ocn.ne.jp,Female,Sony PlayStation,Fashion,1107.47,Female,Gaming
+426.0,Wallie,Phipps,wphippsbt@sfgate.com,Male,MacBook Pro,Health,1476.99,Male,Laptop
+427.0,Rosette,Granleese,rgranleesebu@netvibes.com,Female,Fitbit Charge,mobile accesories,1268.06,Female,Smart Devices
+428.0,Magdalene,Antoniou,mantonioubv@printfriendly.com,Female,Nike Air Max,Gaming,186.26,Female,Fashion
+429.0,Chester,Ludgate,cludgatebw@wp.com,Male,Nike Air Max,mobile accesories,1094.1,Male,Fashion
+430.0,Bogey,Carress,bcarressbx@cisco.com,Polygender,Samsung Galaxy,Health,976.67,Others,Smart Devices
+431.0,Keefe,Yurenev,kyurenevby@google.co.uk,Male,Canon EOS,mobile accesories,896.88,Male,Camera
+432.0,Shane,Brown,sbrownbz@unc.edu,Male,Fitbit Charge,Fashion,590.99,Male,Smart Devices
+433.0,Harriett,Steanyng,hsteanyngc0@newsvine.com,Genderqueer,Fitbit Charge,mobile accesories,419.43,Others,Smart Devices
+434.0,c,Reditt,credittc1@cbslocal.com,Male,Amazon Echo,Health,519.41,Male,Smart Devices
+435.0,Dolli,Bettles,dbettlesc2@mapy.cz,Female,Nike Air Max,Health,26.88,Female,Fashion
+436.0,Van,Pearmine,vpearminec3@statcounter.com,Agender,Fitbit Charge,Mobiles,872.38,Others,Smart Devices
+437.0,Gage,Kenwood,gkenwoodc4@ed.gov,Genderfluid,Nike Air Max,Health,1424.42,Others,Fashion
+438.0,Elly,Lowther,elowtherc5@miitbeian.gov.cn,Female,Amazon Echo,Gaming,86.51,Female,Smart Devices
+439.0,Rutledge,Dutch,rdutchc6@uiuc.edu,Non-binary,Nike Air Max,Fashion,381.47,Others,Fashion
+440.0,Willie,Dallander,wdallanderc7@ihg.com,Male,Nike Air Max,Gaming,308.65,Male,Fashion
+441.0,Elayne,Godball,egodballc8@reverbnation.com,Female,Amazon Echo,Gaming,1037.34,Female,Smart Devices
+442.0,Hymie,Rowney,hrowneyc9@theatlantic.com,Male,Sony PlayStation,Laptop,803.28,Male,Gaming
+443.0,Malvin,Gaynes,mgaynesca@sun.com,Male,GoPro Hero,mobile accesories,919.58,Male,Camera
+444.0,Jeddy,Tattershall,jtattershallcb@omniture.com,Agender,Fitbit Charge,Fashion,398.71,Others,Smart Devices
+445.0,Ferrell,Eiler,feilercc@flavors.me,Male,MacBook Pro,Laptop,520.02,Male,Laptop
+446.0,Piper,Ferfulle,pferfullecd@google.pl,Agender,MacBook Pro,Mobiles,782.42,Others,Laptop
+447.0,Bibbie,Beauly,bbeaulyce@stanford.edu,Female,GoPro Hero,Mobiles,277.11,Female,Camera
+449.0,Marne,Eyckelberg,meyckelbergcg@bbc.co.uk,Female,Nike Air Max,Health,302.98,Female,Fashion
+450.0,Drucie,Wayvill,dwayvillch@1und1.de,Female,Sony PlayStation,Health,1311.7,Female,Gaming
+451.0,Jard,Boken,jbokenci@xing.com,Male,Amazon Echo,Gaming,285.33,Male,Smart Devices
+452.0,Christophorus,Millan,cmillancj@amazonaws.com,Male,Samsung Galaxy,Fashion,613.32,Male,Smart Devices
+453.0,Hakeem,Skirven,hskirvenck@people.com.cn,Male,Amazon Echo,Laptop,219.88,Male,Smart Devices
+454.0,Violette,Oland,volandcl@sciencedirect.com,Female,Canon EOS,Laptop,106.7,Female,Camera
+455.0,Gusta,Cordoba,gcordobacm@linkedin.com,Female,MacBook Pro,Gaming,1388.1,Female,Laptop
+457.0,Leontine,Jubert,ljubertco@homestead.com,Female,Nike Air Max,Laptop,349.27,Female,Fashion
+458.0,Hally,Maliffe,hmaliffecp@ustream.tv,Female,MacBook Pro,Health,1260.12,Female,Laptop
+459.0,Tiffy,Ronca,troncacq@nih.gov,Female,Sony PlayStation,Fashion,505.42,Female,Gaming
+460.0,Arie,Langelay,alangelaycr@state.tx.us,Polygender,Nintendo Switch,Laptop,150.47,Others,Gaming
+461.0,Josee,Greenless,jgreenlesscs@sciencedaily.com,Agender,Fitbit Charge,Laptop,1378.86,Others,Smart Devices
+462.0,Alejandrina,Rosgen,arosgenct@amazonaws.com,Female,Sony PlayStation,mobile accesories,1499.99,Female,Gaming
+463.0,Cheslie,Custard,ccustardcu@elpais.com,Female,Sony PlayStation,Gaming,91.03,Female,Gaming
+464.0,Timothee,Wathen,twathencv@samsung.com,Male,Sony PlayStation,Gaming,697.19,Male,Gaming
+465.0,Vachel,Boyet,vboyetcw@usgs.gov,Male,Nintendo Switch,Gaming,1090.71,Male,Gaming
+466.0,Sherrie,Lyfe,slyfecx@nhs.uk,Female,Nike Air Max,Laptop,417.28,Female,Fashion
+467.0,Timothee,Hurry,thurrycy@washingtonpost.com,Male,Sony PlayStation,mobile accesories,1420.41,Male,Gaming
+Missing_467,Byrann,Jochen,bjochencz@ask.com,Male,GoPro Hero,mobile accesories,63.13,Male,Camera
+469.0,Dukey,Musicka,dmusickad0@ehow.com,Male,Nike Air Max,Fashion,1487.13,Male,Fashion
+Missing_469,Fanchon,Limmer,flimmerd1@so-net.ne.jp,Female,MacBook Pro,mobile accesories,1443.93,Female,Laptop
+471.0,Salaidh,Duff,sduffd2@indiatimes.com,Female,Sony PlayStation,Health,695.66,Female,Gaming
+472.0,Karry,Pigny,kpignyd3@elpais.com,Female,MacBook Pro,Laptop,457.66,Female,Laptop
+473.0,Brannon,Bazely,bbazelyd4@shinystat.com,Unknown,Amazon Echo,Fashion,544.86,Others,Smart Devices
+Missing_473,Olympe,Fridaye,ofridayed5@ucla.edu,Female,Nike Air Max,Gaming,1038.28,Female,Fashion
+475.0,Marisa,Hollidge,mhollidged6@gnu.org,Agender,Nintendo Switch,Health,182.34,Others,Gaming
+476.0,Issi,Kick,ikickd7@yahoo.com,Female,Nike Air Max,Health,957.05,Female,Fashion
+477.0,Morton,Clemot,mclemotd8@princeton.edu,Male,Sony PlayStation,Fashion,636.49,Male,Gaming
+478.0,Robyn,Fenix,rfenixd9@eventbrite.com,Non-binary,Nike Air Max,Laptop,1094.26,Others,Fashion
+479.0,Chane,Alexis,calexisda@usgs.gov,Male,Sony PlayStation,Laptop,705.91,Male,Gaming
+480.0,Nye,Albarez,nalbarezdb@discuz.net,Male,Sony PlayStation,mobile accesories,1046.48,Male,Gaming
+481.0,Kinnie,Alexis,kalexisdc@independent.co.uk,Male,MacBook Pro,Laptop,1363.49,Male,Laptop
+482.0,Berkley,Pullen,bpullendd@amazon.co.uk,Male,Fitbit Charge,Fashion,41.12,Male,Smart Devices
+483.0,Clerissa,Quickfall,cquickfallde@sphinn.com,Female,Nike Air Max,Health,77.75,Female,Fashion
+484.0,Wit,Abrey,wabreydf@imageshack.us,Male,Sony PlayStation,Gaming,349.12,Male,Gaming
+485.0,Micheil,Spight,mspightdg@yale.edu,Male,Sony PlayStation,Gaming,869.51,Male,Gaming
+486.0,Elnar,Sappell,esappelldh@surveymonkey.com,Male,GoPro Hero,mobile accesories,1419.13,Male,Camera
+487.0,Arlinda,Avramovsky,aavramovskydi@ovh.net,Agender,iPhone,Gaming,221.51,Others,Smart Devices
+488.0,Lenka,Murrigan,lmurrigandj@psu.edu,Female,Amazon Echo,mobile accesories,603.16,Female,Smart Devices
+489.0,Tiler,Filkov,tfilkovdk@webeden.co.uk,Male,Amazon Echo,Mobiles,372.1,Male,Smart Devices
+490.0,Sara-ann,Strass,sstrassdl@nature.com,Female,Nike Air Max,Fashion,592.62,Female,Fashion
+491.0,Burt,Gladhill,bgladhilldm@webnode.com,Male,MacBook Pro,Gaming,881.15,Male,Laptop
+Missing_491,Kylie,Ridgedell,kridgedelldn@newyorker.com,Female,Sony PlayStation,Mobiles,1040.27,Female,Gaming
+493.0,Alfred,Cobby,acobbydo@gov.uk,Male,Fitbit Charge,mobile accesories,211.31,Male,Smart Devices
+494.0,Gonzalo,Gotfrey,ggotfreydp@merriam-webster.com,Male,Sony PlayStation,Gaming,135.8,Male,Gaming
+495.0,Anne,Kunath,akunathdq@cbslocal.com,Female,Fitbit Charge,mobile accesories,954.62,Female,Smart Devices
+496.0,Isidore,Dorrins,idorrinsdr@census.gov,Male,Amazon Echo,Mobiles,917.67,Male,Smart Devices
+497.0,Mirilla,Fry,mfryds@sciencedaily.com,Female,MacBook Pro,mobile accesories,293.32,Female,Laptop
+498.0,Addy,Uff,auffdt@constantcontact.com,Female,Amazon Echo,mobile accesories,983.96,Female,Smart Devices
+499.0,Lona,Zorzutti,lzorzuttidu@reference.com,Agender,Sony PlayStation,mobile accesories,901.79,Others,Gaming
+500.0,Charlton,Ditzel,cditzeldv@ocn.ne.jp,Genderqueer,Amazon Echo,Health,1439.57,Others,Smart Devices
